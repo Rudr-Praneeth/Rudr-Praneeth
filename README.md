@@ -1,10 +1,14 @@
 # Praneeth Narayan  
-**Interactive Web Engineer**
+**Artificial Intelligence & Interactive Web Designer**
 
+## ARTIFICIAL INTELLIGENCE
+- Documenting and Studying AI/ML full-time
+- Building real projects with end-to-end pipelines, clean code, and full documentation.
+
+## WEB DEVELOPMENT
 I design and engineer cinematic web experiences where motion, timing, and restraint carry the narrative.  
 My work focuses on **controlled animation, visual storytelling, and execution quality** not decoration.
-I approach the web like film:  
-slow builds, intentional stillness, and transitions that feel earned.
+Freelance: Landing Pages and SaaS Systems
 
 ---
 ## Contact
